@@ -1,0 +1,4 @@
+flask
+requests
+yt-dlp
+python-telegram-bot>=20.0
